@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <>
       <div>
-        <h1>imdb clone using nextjs and tailwind css 
+        <h1 className="text-red-300">imdb clone using nextjs and tailwind css 
         </h1>
       </div>
     </>
